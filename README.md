@@ -1,4 +1,4 @@
-# Bookshop Demox
+# Bookshop Demoxy
 
 Bookshop is a virtual online bookstore application through which you can find books of various categories and rate the books.
 
